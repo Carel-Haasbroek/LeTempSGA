@@ -1,0 +1,1036 @@
+{
+  "vaultName": "MMA",
+  "lastExport": 1733160859597,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Grappling/Concepts/Angle Delta.md",
+    "Grappling/Concepts/Concepts.md",
+    "Grappling/Concepts/Don't settle in guard.md",
+    "Grappling/Concepts/Grips.md",
+    "Grappling/Concepts/Kuzushi.md",
+    "Grappling/Concepts/Principles.md",
+    "Grappling/Concepts/Pulling guard.md",
+    "Grappling/Concepts/Sacrifice Throws.md",
+    "Grappling/Concepts/Through The Hole.md",
+    "Grappling/Concepts/Wrestling concepts.md",
+    "Grappling/Controls/Doorstop.md",
+    "Grappling/Controls/Gift Wrap.md",
+    "Grappling/Controls/Hooks.md",
+    "Grappling/Controls/Safety-Belt.md",
+    "Grappling/Controls/Superman's Rudder.md",
+    "Grappling/Controls/Wedge.md",
+    "Grappling/Controls/Wrist Control.md",
+    "Grappling/Kata/Strike Survival.md",
+    "Grappling/Kata/Ukemi Waza Break Falls.md",
+    "Grappling/Movement/Back Roll Out.md",
+    "Grappling/Movement/Back Takedown.md",
+    "Grappling/Movement/Berimbolo.md",
+    "Grappling/Movement/Break fall to back.md",
+    "Grappling/Movement/Break fall to front.md",
+    "Grappling/Movement/Break fall to side.md",
+    "Grappling/Movement/Crab Ride.md",
+    "Grappling/Movement/Front Roll Out.md",
+    "Grappling/Movement/Knee Slice.md",
+    "Grappling/Movement/Punch Block Stage 2.md",
+    "Grappling/Movement/Punch Block Stage 5.md",
+    "Grappling/Movement/Standing Guard Break.md",
+    "Grappling/Movement/Tactical Standup.md",
+    "Grappling/Movement/Throw By.md",
+    "Grappling/Positions/Ground/Butterfly Guard.md",
+    "Grappling/Positions/Ground/Closed Guard.md",
+    "Grappling/Positions/Ground/Guard.md",
+    "Grappling/Positions/Ground/Half Guard.md",
+    "Grappling/Positions/Ground/Minus one.md",
+    "Grappling/Positions/Ground/Modified Mount.md",
+    "Grappling/Positions/Ground/Mount.md",
+    "Grappling/Positions/Ground/North south.md",
+    "Grappling/Positions/Ground/Open Guard.md",
+    "Grappling/Positions/Ground/Plus one.md",
+    "Grappling/Positions/Ground/Reverse X.md",
+    "Grappling/Positions/Ground/Side Control.md",
+    "Grappling/Positions/Ground/Spider Guard.md",
+    "Grappling/Positions/Ground/Supine Guard.md",
+    "Grappling/Positions/Ground/Turtle.md",
+    "Grappling/Positions/Leg Entanglements/50-50.md",
+    "Grappling/Positions/Leg Entanglements/80-20.md",
+    "Grappling/Positions/Leg Entanglements/90-10.md",
+    "Grappling/Positions/Leg Entanglements/Ashi Garami.md",
+    "Grappling/Positions/Leg Entanglements/Butterfly Ashi Garami.md",
+    "Grappling/Positions/Leg Entanglements/Cross Ashi Garami.md",
+    "Grappling/Positions/Leg Entanglements/De La Riva.md",
+    "Grappling/Positions/Leg Entanglements/De La Riva Lace.md",
+    "Grappling/Positions/Leg Entanglements/De La Riva X.md",
+    "Grappling/Positions/Leg Entanglements/Leg Entanglements.md",
+    "Grappling/Positions/Leg Entanglements/Outside Ashi Garami.md",
+    "Grappling/Positions/Leg Entanglements/Reverse De La Riva.md",
+    "Grappling/Positions/Leg Entanglements/Saddle.md",
+    "Grappling/Positions/Leg Entanglements/The Reap.md",
+    "Grappling/Positions/Leg Entanglements/X Guard.md",
+    "Grappling/Positions/Stand up/50-50 Clinch.md",
+    "Grappling/Positions/Stand up/Deep Controlling Underhook.md",
+    "Grappling/Positions/Stand up/Front Headlock.md",
+    "Grappling/Positions/Stand up/Outside Standing.md",
+    "Grappling/Positions/Stand up/Shiko Dachi.md",
+    "Grappling/Positions/Stand up/Single Collar Tie.md",
+    "Grappling/Positions/Stand up/Standing.md",
+    "Grappling/Positions/Stand up/Standing Tai Clinch.md",
+    "Grappling/Positions/Back Control.md",
+    "Grappling/Submisions/Choke/Anaconda Choke.md",
+    "Grappling/Submisions/Choke/Arm In Guillotine.md",
+    "Grappling/Submisions/Choke/D'arce Choke.md",
+    "Grappling/Submisions/Choke/Ezekiel.md",
+    "Grappling/Submisions/Choke/Peruvian Necktie.md",
+    "Grappling/Submisions/Choke/Rear Naked Choke.md",
+    "Grappling/Submisions/Choke/Rear Triangle.md",
+    "Grappling/Submisions/Choke/Soup Choke.md",
+    "Grappling/Submisions/Choke/Triangle.md",
+    "Grappling/Submisions/Joint Locks/Americana.md",
+    "Grappling/Submisions/Joint Locks/Arm Bar.md",
+    "Grappling/Submisions/Joint Locks/Classic Knee Bar.md",
+    "Grappling/Submisions/Joint Locks/Estima Lock.md",
+    "Grappling/Submisions/Joint Locks/Inside Heel Hook.md",
+    "Grappling/Submisions/Joint Locks/Kimura.md",
+    "Grappling/Submisions/Joint Locks/Knee Bar.md",
+    "Grappling/Submisions/Joint Locks/Lateral Knee Bar.md",
+    "Grappling/Submisions/Joint Locks/Leg Locks.md",
+    "Grappling/Submisions/Joint Locks/Outside Heel Hook.md",
+    "Grappling/Submisions/Joint Locks/Straight Ankle Lock.md",
+    "Grappling/Submisions/Joint Locks/Toe Hold.md",
+    "Grappling/Submisions/Joint Locks/Z-lock.md",
+    "Grappling/Submisions/Pain Compliance/Calf Slicer.md",
+    "Grappling/Takedowns/Throws/Hip Throw.md",
+    "Grappling/Takedowns/Throws/Kimura Uke Waza.md",
+    "Grappling/Takedowns/Throws/Reverse Kimura Uke Waza.md",
+    "Grappling/Takedowns/Throws/Sumi Gaeshi.md",
+    "Grappling/Takedowns/Throws/Uke Waza.md",
+    "Grappling/Takedowns/Throws/Yoko Gumura.md",
+    "Grappling/Takedowns/Wrestling/Body Fold Takedown.md",
+    "Grappling/Takedowns/Wrestling/Double Leg Takedown.md",
+    "Grappling/Takedowns/Wrestling/Leg Hook Takedown.md",
+    "Grappling/Takedowns/Wrestling/Single Leg Takedown.md",
+    "Grappling/Transition/Sweeps/Butterfly Sweep.md",
+    "Grappling/Transition/Sweeps/Hip Bump Sweep.md",
+    "Grappling/Transition/Sweeps/Kimura Sweep.md",
+    "Grappling/Transition/Sweeps/Pendulum sweep.md",
+    "Grappling/Transition/Sweeps/Reverse Scissor Sweep.md",
+    "Grappling/Transition/Sweeps/Scissor Sweep.md",
+    "Grappling/Transition/Sweeps/Spider Scissor Sweep.md",
+    "Grappling/Transition/2 on 1 Back Escape.md",
+    "Grappling/Transition/Belly Slide.md",
+    "Grappling/Transition/Double Under Guard Pass.md",
+    "Grappling/Transition/Open guard reverse grapevine.md",
+    "Grappling/Transition/Shrimp Escape.md",
+    "Grappling/Transition/Stack Pass.md",
+    "Grappling/Transition/Standing Arm Drag.md",
+    "Grappling/Transition/Trap and Roll Escape.md",
+    "Grappling/Who is Who/Who is Who.md",
+    "Images/Ashi garami.png",
+    "Images/Pasted image 20241120163257.png",
+    "Images/Pasted image 20241120163907.png",
+    "Images/Spider Guard.png",
+    "Boxing.canvas",
+    "index.md",
+    "SGA.canvas",
+    "Things to look up.md",
+    "Untitled.canvas",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "Grappling/Concepts/Angle Delta.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 17,
+      "exportedPath": "Grappling/Concepts/Angle Delta.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Concepts.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 249,
+      "exportedPath": "Grappling/Concepts/Concepts.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Don't settle in guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 17,
+      "exportedPath": "Grappling/Concepts/Don't settle in guard.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Grips.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 233,
+      "exportedPath": "Grappling/Concepts/Grips.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Kuzushi.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 44,
+      "exportedPath": "Grappling/Concepts/Kuzushi.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Principles.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 81,
+      "exportedPath": "Grappling/Concepts/Principles.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Pulling guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 91,
+      "exportedPath": "Grappling/Concepts/Pulling guard.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Sacrifice Throws.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 877,
+      "exportedPath": "Grappling/Concepts/Sacrifice Throws.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Through The Hole.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 44,
+      "exportedPath": "Grappling/Concepts/Through The Hole.html",
+      "dependencies": []
+    },
+    "Grappling/Concepts/Wrestling concepts.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 150,
+      "exportedPath": "Grappling/Concepts/Wrestling concepts.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Doorstop.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 30,
+      "exportedPath": "Grappling/Controls/Doorstop.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Gift Wrap.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 43,
+      "exportedPath": "Grappling/Controls/Gift Wrap.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Hooks.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 30,
+      "exportedPath": "Grappling/Controls/Hooks.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Safety-Belt.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 30,
+      "exportedPath": "Grappling/Controls/Safety-Belt.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Superman's Rudder.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 23,
+      "exportedPath": "Grappling/Controls/Superman's Rudder.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Wedge.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 30,
+      "exportedPath": "Grappling/Controls/Wedge.html",
+      "dependencies": []
+    },
+    "Grappling/Controls/Wrist Control.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Controls/Wrist Control.html",
+      "dependencies": []
+    },
+    "Grappling/Kata/Strike Survival.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 170,
+      "exportedPath": "Grappling/Kata/Strike Survival.html",
+      "dependencies": []
+    },
+    "Grappling/Kata/Ukemi Waza Break Falls.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 227,
+      "exportedPath": "Grappling/Kata/Ukemi Waza Break Falls.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Back Roll Out.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Back Roll Out.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Back Takedown.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Back Takedown.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Berimbolo.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 119,
+      "exportedPath": "Grappling/Movement/Berimbolo.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Break fall to back.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Break fall to back.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Break fall to front.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Break fall to front.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Break fall to side.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Break fall to side.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Crab Ride.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Crab Ride.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Front Roll Out.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Front Roll Out.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Knee Slice.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Knee Slice.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Punch Block Stage 2.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 16,
+      "exportedPath": "Grappling/Movement/Punch Block Stage 2.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Punch Block Stage 5.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 21,
+      "exportedPath": "Grappling/Movement/Punch Block Stage 5.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Standing Guard Break.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 307,
+      "exportedPath": "Grappling/Movement/Standing Guard Break.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Tactical Standup.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Tactical Standup.html",
+      "dependencies": []
+    },
+    "Grappling/Movement/Throw By.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Movement/Throw By.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Butterfly Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 88,
+      "exportedPath": "Grappling/Positions/Ground/Butterfly Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Closed Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Ground/Closed Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 337,
+      "exportedPath": "Grappling/Positions/Ground/Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Half Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 23,
+      "exportedPath": "Grappling/Positions/Ground/Half Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Minus one.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 96,
+      "exportedPath": "Grappling/Positions/Ground/Minus one.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Modified Mount.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 76,
+      "exportedPath": "Grappling/Positions/Ground/Modified Mount.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Mount.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 55,
+      "exportedPath": "Grappling/Positions/Ground/Mount.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/North south.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Ground/North south.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Open Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Ground/Open Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Plus one.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Ground/Plus one.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Reverse X.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Ground/Reverse X.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Side Control.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 137,
+      "exportedPath": "Grappling/Positions/Ground/Side Control.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Spider Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 57,
+      "exportedPath": "Grappling/Positions/Ground/Spider Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Supine Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Ground/Supine Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Ground/Turtle.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 52,
+      "exportedPath": "Grappling/Positions/Ground/Turtle.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/50-50.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 61,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/50-50.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/80-20.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 33,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/80-20.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/90-10.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 33,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/90-10.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Ashi Garami.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 106,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Ashi Garami.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Butterfly Ashi Garami.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 59,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Butterfly Ashi Garami.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Cross Ashi Garami.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Cross Ashi Garami.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/De La Riva.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 53,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/De La Riva.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/De La Riva Lace.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 14,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/De La Riva Lace.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/De La Riva X.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/De La Riva X.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Leg Entanglements.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 216,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Leg Entanglements.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Outside Ashi Garami.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 35,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Outside Ashi Garami.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Reverse De La Riva.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 25,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Reverse De La Riva.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/Saddle.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 64,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/Saddle.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/The Reap.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 70,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/The Reap.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Leg Entanglements/X Guard.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Leg Entanglements/X Guard.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/50-50 Clinch.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Stand up/50-50 Clinch.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Deep Controlling Underhook.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 39,
+      "exportedPath": "Grappling/Positions/Stand up/Deep Controlling Underhook.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Front Headlock.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 113,
+      "exportedPath": "Grappling/Positions/Stand up/Front Headlock.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Outside Standing.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Stand up/Outside Standing.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Shiko Dachi.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 52,
+      "exportedPath": "Grappling/Positions/Stand up/Shiko Dachi.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Single Collar Tie.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Positions/Stand up/Single Collar Tie.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Standing.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 34,
+      "exportedPath": "Grappling/Positions/Stand up/Standing.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Stand up/Standing Tai Clinch.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 85,
+      "exportedPath": "Grappling/Positions/Stand up/Standing Tai Clinch.html",
+      "dependencies": []
+    },
+    "Grappling/Positions/Back Control.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 147,
+      "exportedPath": "Grappling/Positions/Back Control.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Anaconda Choke.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Anaconda Choke.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Arm In Guillotine.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Arm In Guillotine.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/D'arce Choke.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/D'arce Choke.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Ezekiel.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Ezekiel.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Peruvian Necktie.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Peruvian Necktie.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Rear Naked Choke.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Rear Naked Choke.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Rear Triangle.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Rear Triangle.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Soup Choke.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Soup Choke.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Choke/Triangle.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Choke/Triangle.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Americana.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 16,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Americana.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Arm Bar.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Arm Bar.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Classic Knee Bar.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Classic Knee Bar.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Estima Lock.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Estima Lock.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Inside Heel Hook.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Inside Heel Hook.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Kimura.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Kimura.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Knee Bar.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Knee Bar.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Lateral Knee Bar.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 27,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Lateral Knee Bar.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Leg Locks.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 203,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Leg Locks.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Outside Heel Hook.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Outside Heel Hook.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Straight Ankle Lock.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Straight Ankle Lock.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Toe Hold.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Toe Hold.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Joint Locks/Z-lock.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Joint Locks/Z-lock.html",
+      "dependencies": []
+    },
+    "Grappling/Submisions/Pain Compliance/Calf Slicer.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Submisions/Pain Compliance/Calf Slicer.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Throws/Hip Throw.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Throws/Hip Throw.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Throws/Kimura Uke Waza.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Throws/Kimura Uke Waza.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Throws/Reverse Kimura Uke Waza.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Throws/Reverse Kimura Uke Waza.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Throws/Sumi Gaeshi.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Throws/Sumi Gaeshi.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Throws/Uke Waza.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Throws/Uke Waza.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Throws/Yoko Gumura.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 31,
+      "exportedPath": "Grappling/Takedowns/Throws/Yoko Gumura.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Wrestling/Body Fold Takedown.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Wrestling/Body Fold Takedown.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Wrestling/Double Leg Takedown.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Wrestling/Double Leg Takedown.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Wrestling/Leg Hook Takedown.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Takedowns/Wrestling/Leg Hook Takedown.html",
+      "dependencies": []
+    },
+    "Grappling/Takedowns/Wrestling/Single Leg Takedown.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 60,
+      "exportedPath": "Grappling/Takedowns/Wrestling/Single Leg Takedown.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Butterfly Sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 145,
+      "exportedPath": "Grappling/Transition/Sweeps/Butterfly Sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Hip Bump Sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 15,
+      "exportedPath": "Grappling/Transition/Sweeps/Hip Bump Sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Kimura Sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Transition/Sweeps/Kimura Sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Pendulum sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 27,
+      "exportedPath": "Grappling/Transition/Sweeps/Pendulum sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Reverse Scissor Sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Transition/Sweeps/Reverse Scissor Sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Scissor Sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 27,
+      "exportedPath": "Grappling/Transition/Sweeps/Scissor Sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Sweeps/Spider Scissor Sweep.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Transition/Sweeps/Spider Scissor Sweep.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/2 on 1 Back Escape.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 23,
+      "exportedPath": "Grappling/Transition/2 on 1 Back Escape.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Belly Slide.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Transition/Belly Slide.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Double Under Guard Pass.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 54,
+      "exportedPath": "Grappling/Transition/Double Under Guard Pass.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Open guard reverse grapevine.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Transition/Open guard reverse grapevine.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Shrimp Escape.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 86,
+      "exportedPath": "Grappling/Transition/Shrimp Escape.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Stack Pass.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 0,
+      "exportedPath": "Grappling/Transition/Stack Pass.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Standing Arm Drag.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 26,
+      "exportedPath": "Grappling/Transition/Standing Arm Drag.html",
+      "dependencies": []
+    },
+    "Grappling/Transition/Trap and Roll Escape.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 31,
+      "exportedPath": "Grappling/Transition/Trap and Roll Escape.html",
+      "dependencies": []
+    },
+    "Grappling/Who is Who/Who is Who.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 150,
+      "exportedPath": "Grappling/Who is Who/Who is Who.html",
+      "dependencies": []
+    },
+    "Images/Ashi garami.png": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 67925,
+      "exportedPath": "Images/Ashi garami.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241120163257.png": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 316348,
+      "exportedPath": "Images/Pasted image 20241120163257.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241120163907.png": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 302640,
+      "exportedPath": "Images/Pasted image 20241120163907.png",
+      "dependencies": []
+    },
+    "Images/Spider Guard.png": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 470298,
+      "exportedPath": "Images/Spider Guard.png",
+      "dependencies": []
+    },
+    "Boxing.canvas": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 2286,
+      "exportedPath": "Boxing.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 60,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "SGA.canvas": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 10505,
+      "exportedPath": "SGA.html",
+      "dependencies": []
+    },
+    "Things to look up.md": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 64,
+      "exportedPath": "Things to look up.html",
+      "dependencies": []
+    },
+    "Untitled.canvas": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 2,
+      "exportedPath": "Untitled.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1733160859597,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
